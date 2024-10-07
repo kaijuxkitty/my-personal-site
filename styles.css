@@ -1,0 +1,32 @@
+h1{ font-family:Georgia;
+font-style:bold;
+color:antiquewhite;
+text-align: center;
+border:width=6px length=6px}
+
+body {background-color:black}
+
+img {border-radius: 50%}
+p {color:antiquewhite;
+font-family: 'Stoic Script';
+font-style:italic;
+text-size: 20px;
+text-align:center}
+
+h2 {
+ font-family:'Roboto';
+ text-align:center;
+text-style:italic;
+font-size:15px;}
+
+
+h3 {color:antiquewhite;
+font-family:'Baskerville';
+font-size: 30px;
+text-indent:90px;
+border:10px solid #CEED}
+
+h4 {font-size:20px;
+color:#CEED;
+font-family:'Roboto';
+text-align:center}
